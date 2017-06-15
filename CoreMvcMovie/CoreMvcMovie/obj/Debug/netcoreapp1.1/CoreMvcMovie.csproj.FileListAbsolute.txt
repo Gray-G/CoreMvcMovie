@@ -1,0 +1,9 @@
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\bin\Debug\netcoreapp1.1\CoreMvcMovie.deps.json
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\bin\Debug\netcoreapp1.1\CoreMvcMovie.runtimeconfig.json
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\bin\Debug\netcoreapp1.1\CoreMvcMovie.runtimeconfig.dev.json
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\bin\Debug\netcoreapp1.1\CoreMvcMovie.dll
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\obj\Debug\netcoreapp1.1\CoreMvcMovie.AssemblyInfo.cs
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\bin\Debug\netcoreapp1.1\CoreMvcMovie.pdb
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\obj\Debug\netcoreapp1.1\CoreMvcMovie.dll
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\obj\Debug\netcoreapp1.1\CoreMvcMovie.pdb
+C:\Users\Gray\Documents\GitHub\CoreMvcMovie\CoreMvcMovie\CoreMvcMovie\obj\Debug\netcoreapp1.1\CoreMvcMovie.csprojResolveAssemblyReference.cache
